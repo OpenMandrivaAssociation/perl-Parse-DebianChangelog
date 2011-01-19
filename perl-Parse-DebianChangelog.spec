@@ -1,6 +1,6 @@
 %define perlvendorlib %(eval "`%{__perl} -V:installvendorlib`"; echo $installvendorlib)
 
-Name: perl-DebianChangelog
+Name: perl-Parse-DebianChangelog
 Version: 1.1.1
 Release: %mkrel 1
 Summary: Perl interface to Debian Changelog
