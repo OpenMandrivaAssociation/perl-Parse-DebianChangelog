@@ -6,7 +6,7 @@ Release: %mkrel 1
 Summary: Perl interface to Debian Changelog
 License: GPL
 Group: Development/Perl
-URL: http://packages.debian.org/source/lenny/libparse-debianchangelog-perl
+URL: https://packages.debian.org/source/lenny/libparse-debianchangelog-perl
 Source: libparse-debianchangelog-perl_%{version}.orig.tar.gz
 BuildRequires: gcc-c++ perl-devel perl-Module-Build perl-Test-Pod-Coverage perl-HTML-Template
 
