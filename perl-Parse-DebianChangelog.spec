@@ -2,7 +2,7 @@
 
 Name: perl-Parse-DebianChangelog
 Version: 1.1.1
-Release: %mkrel 1
+Release: 2
 Summary: Perl interface to Debian Changelog
 License: GPL
 Group: Development/Perl
